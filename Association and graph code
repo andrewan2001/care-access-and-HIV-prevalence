@@ -1,0 +1,151 @@
+library(tidyverse)
+library(tidyselect)
+library(rmarkdown)
+library(rstudioapi)
+library(ggformula)
+library(ggplot2)
+library(ggforce)
+library(readr)
+library(readxl)
+library(dbplyr)
+library(ggpubr)
+library(ggsignif)
+
+#getting and selecting data: city, Zip code, year, and prevalence rate
+LosAngeles_AIDSVu_DownloadableDataset_2018 <- read_excel (
+"LosAngeles_AIDSVu_DownloadableDataset_2018.xlsx", sheet = "Prevalence Data", skip = 2)
+LA_HIV <- select(LosAngeles_AIDSVu_DownloadableDataset_2018, 'City Name',
+                 'Zip Code', 'Year', 'Zip Code Rate')
+
+OrangeCO_AIDSVu_DownloadableDataset_2018 <- read_excel (
+"OrangeCO_AIDSVu_DownloadableDataset_2018.xlsx", sheet = "Prevalence Data", skip = 2)
+Orange_HIV <- select(OrangeCO_AIDSVu_DownloadableDataset_2018, 'City Name',
+                     'Zip Code', 'Year', 'Zip Code Rate')
+
+SanFrancisco_AIDSVu_DownloadableDataset_2018_1 <- read_excel (
+"SanFrancisco_AIDSVu_DownloadableDataset_2018-1.xlsx", sheet = "Prevalence Data", skip = 2)
+SF_HIV <- select(SanFrancisco_AIDSVu_DownloadableDataset_2018_1, 'City Name', 
+                 'Zip Code', 'Year', 'Zip Code Rate')
+
+Alameda_HIV <- read_excel("Alameda HIV.xlsx")
+Alameda_HIV <- arrange(Alameda_HIV, `Zip Code`)
+
+San_Diego_2018_HIVprev <- read_excel("San_Diego_2018_HIVprev.xlsx")
+San_Diego_2018_HIVprev <- filter(San_Diego_2018_HIVprev, `Zip Code Rate` != "")
+
+#Getting rural/suburban/urban zip code classifications
+UrbanSubRural_Z <- read_csv("~/Documents/FMPH 193/UrbanSubRural_Z.csv")
+
+#Combining the dataframes
+ALL_CA <-list(SF_HIV, LA_HIV, Orange_HIV, Alameda_HIV, San_Diego_2018_HIVprev)
+ALL_CA_merged <- bind_rows(ALL_CA, .id="column_label")
+ALL_CA_merged_clean <- filter(ALL_CA_merged, `Zip Code Rate`!= -1)
+
+#Changing OrangeCO to Orange County
+ALL_CA_merged_clean$`City Name` <- recode(
+  ALL_CA_merged_clean$`City Name`, "OrangeCO" = "Orange County")
+
+#Adding Rural/Suburban/Urban classifications
+ALL_CA_merged_clean_URB_RUR <- merge(ALL_CA_merged_clean, UrbanSubRural_Z, 
+                                     by.x = "Zip Code", by.y = "ZIP_CODE")
+
+#Exporting preliminary csv
+write.csv(ALL_CA_merged_clean_URB_RUR, "CA HIV data_fin.csv")
+
+
+#plotting histograms of prevalence rates
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(`Zip Code Rate`)) + geom_histogram()
+
+#By county
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=`Zip Code Rate`, fill = `City Name`)) + 
+  geom_histogram() + facet_grid(~`City Name`)
+
+#Plotting by Rural/Suburban/Urban
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=`Zip Code Rate`, fill = rurality)) + 
+  geom_histogram(binwidth = 100) + facet_grid(~rurality)
+
+#5 number summary by urban, suburban, and rural and by county AND boxplots
+by(ALL_CA_merged_clean_URB_RUR$`Zip Code Rate`, ALL_CA_merged_clean_URB_RUR$rurality, summary)
+
+rural_compare <- list(c("Suburban", "Rural"), c("Urban", "Suburban"), c("Urban", "Rural"))
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=rurality, y= `Zip Code Rate`, fill = rurality)) +
+  geom_boxplot() + stat_compare_means(comparisons = rural_compare)
+
+
+by(ALL_CA_merged_clean_URB_RUR$`Zip Code Rate`, ALL_CA_merged_clean_URB_RUR$`City Name`, summary)
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=`City Name`, y= `Zip Code Rate`, fill = `City Name`)) +
+  geom_boxplot() + stat_compare_means()
+
+#Plotting together
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=rurality, y= `Zip Code Rate`, fill = `City Name`)) +
+       geom_boxplot()
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=`City Name`, y= `Zip Code Rate`, fill = rurality)) +
+        geom_boxplot() 
+
+
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=`City Name`, y= `Zip Code Rate`, fill = `City Name`)) +
+  geom_dotplot(binaxis="y", stackdir= "center", binwidth = 75)
+ggplot(ALL_CA_merged_clean_URB_RUR, aes(x=rurality, y= `Zip Code Rate`, fill = rurality)) +
+  geom_dotplot(binaxis="y", stackdir= "center", binwidth = 75)
+
+#getting completed dataset with delayed care data
+CA_HIV_data_delayedCare_pre <- read_csv("CA HIV data+delayed FINAL-+NAs.csv")
+CA_HIV_data_delayedCare <- CA_HIV_data_delayedCare_pre[,-1]
+CA_HIV_data_delayedCare <- filter(CA_HIV_data_delayedCare, Delayed_Care != "N/A")
+CA_HIV_data_delayedCare$Delayed_Care <- as.numeric(CA_HIV_data_delayedCare$Delayed_Care)
+
+write.csv(CA_HIV_data_delayedCare, "CA HIV data+delayed_completed.csv")
+
+CA_HIV_data_delayedCare$`City Name` <- case_match(
+  CA_HIV_data_delayedCare$`City Name`,"Oakland" ~ "Alameda County", 
+  .default = CA_HIV_data_delayedCare$`City Name`)
+
+CA_HIV_data_delayedCare$`City Name` <- case_match(
+  CA_HIV_data_delayedCare$`City Name`,"San Francisco" ~ "San Francisco County", 
+  .default = CA_HIV_data_delayedCare$`City Name`)
+
+#5 number summary of delayed care
+by(CA_HIV_data_delayedCare$Delayed_Care, CA_HIV_data_delayedCare$rurality, summary)
+ggplot(CA_HIV_data_delayedCare, aes(y=Delayed_Care)) +
+  geom_boxplot()
+
+ggplot(CA_HIV_data_delayedCare, aes(x=Delayed_Care)) +
+  geom_histogram() 
+
+ggplot(CA_HIV_data_delayedCare, aes(x=rurality, y= Delayed_Care, fill = rurality)) +
+  geom_boxplot()
+
+by(CA_HIV_data_delayedCare$Delayed_Care, CA_HIV_data_delayedCare$`City Name`, summary)
+ggplot(CA_HIV_data_delayedCare, aes(x=`City Name`, y= Delayed_Care, fill = `City Name`)) +
+  geom_boxplot()
+
+#scatter plot, delayed care (independent) and zip code rate (dependent)
+ggplot(CA_HIV_data_delayedCare, aes(x= Delayed_Care, y= `Zip Code Rate`)) + 
+  geom_point() + xlim(0,NA) + geom_smooth(method=lm) + 
+  stat_regline_equation(label.x=10, size = 15) + stat_cor(label.x=10, label.y=9000, size = 15) +
+  labs(x="% Pop facing delayed care access", y= "HIV prevalence rate per 100k pop") +
+  theme(text = element_text(size = 40))    
+
+ggplot(CA_HIV_data_delayedCare, aes(x=Delayed_Care, y= `Zip Code Rate`, color = rurality)) + 
+  geom_point() + facet_wrap(~rurality) + xlim(0,NA) + labs(x="% Pop facing delayed care access", 
+  y= "HIV prevalence rate per 100k pop")+ 
+  geom_smooth(method=lm, color = "black", size= 0.5)+ 
+  stat_regline_equation(color = "black", size = 10) + 
+  stat_cor(color = "black", label.y=8500, size = 10) +
+  theme(text = element_text(size = 40))   
+
+ggplot(CA_HIV_data_delayedCare, aes(x=Delayed_Care, y= `Zip Code Rate`, color = `City Name`)) + 
+  geom_point() + facet_wrap(~`City Name`) + xlim(0,NA) + labs(x="% Pop facing delayed care access", 
+  y= "HIV prevalence rate per 100k pop") +
+  geom_smooth(method=lm, color = "black", size = 0.5) + 
+  stat_regline_equation(color = "black", size = 10) + 
+  stat_cor(color = "black", label.y=8500, size = 10) +
+  theme(text = element_text(size = 40)) + theme(legend.position = "none")
+
+#numbers of variables
+aggregate(CA_HIV_data_delayedCare$rurality, 
+          by=list(CA_HIV_data_delayedCare$rurality), FUN=length)
+
+aggregate(CA_HIV_data_delayedCare$rurality, 
+          by=list(CA_HIV_data_delayedCare$`City Name`), FUN=length)
+
