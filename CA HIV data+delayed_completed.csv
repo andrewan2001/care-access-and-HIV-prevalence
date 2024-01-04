@@ -1,0 +1,509 @@
+"","Zip Code","column_label","City Name","Year","Zip Code Rate","STATE","ZIP_TYPE","RUCA1","RUCA2","rurality","Delayed_Care"
+"1",90001,2,"Los Angeles County",2018,920,"CA","Zip Code Area",1,1,"Urban",20.5
+"2",90002,2,"Los Angeles County",2018,747,"CA","Zip Code Area",1,1,"Urban",21.5
+"3",90003,2,"Los Angeles County",2018,942,"CA","Zip Code Area",1,1,"Urban",20.7
+"4",90004,2,"Los Angeles County",2018,1288,"CA","Zip Code Area",1,1,"Urban",19.8
+"5",90005,2,"Los Angeles County",2018,1201,"CA","Zip Code Area",1,1,"Urban",16.7
+"6",90006,2,"Los Angeles County",2018,902,"CA","Zip Code Area",1,1,"Urban",16.8
+"7",90007,2,"Los Angeles County",2018,657,"CA","Zip Code Area",1,1,"Urban",16
+"8",90008,2,"Los Angeles County",2018,1731,"CA","Zip Code Area",1,1,"Urban",21.4
+"9",90010,2,"Los Angeles County",2018,1373,"CA","Post Office or large volume customer",1,1,"Urban",17
+"10",90011,2,"Los Angeles County",2018,723,"CA","Zip Code Area",1,1,"Urban",18.9
+"11",90012,2,"Los Angeles County",2018,5817,"CA","Zip Code Area",1,1,"Urban",17.9
+"12",90013,2,"Los Angeles County",2018,6804,"CA","Zip Code Area",1,1,"Urban",19.2
+"13",90014,2,"Los Angeles County",2018,3975,"CA","Zip Code Area",1,1,"Urban",17.9
+"14",90015,2,"Los Angeles County",2018,2369,"CA","Zip Code Area",1,1,"Urban",18
+"15",90016,2,"Los Angeles County",2018,1074,"CA","Zip Code Area",1,1,"Urban",21.5
+"16",90017,2,"Los Angeles County",2018,1593,"CA","Zip Code Area",1,1,"Urban",15.8
+"17",90018,2,"Los Angeles County",2018,1085,"CA","Zip Code Area",1,1,"Urban",20.4
+"18",90019,2,"Los Angeles County",2018,1174,"CA","Zip Code Area",1,1,"Urban",21.5
+"19",90020,2,"Los Angeles County",2018,946,"CA","Zip Code Area",1,1,"Urban",17.1
+"20",90021,2,"Los Angeles County",2018,3945,"CA","Zip Code Area",1,1,"Urban",20.4
+"21",90022,2,"Los Angeles County",2018,493,"CA","Zip Code Area",1,1,"Urban",20.7
+"22",90023,2,"Los Angeles County",2018,577,"CA","Zip Code Area",1,1,"Urban",20.3
+"23",90024,2,"Los Angeles County",2018,200,"CA","Zip Code Area",1,1,"Urban",20.3
+"24",90025,2,"Los Angeles County",2018,390,"CA","Zip Code Area",1,1,"Urban",21.7
+"25",90026,2,"Los Angeles County",2018,1589,"CA","Zip Code Area",1,1,"Urban",22.3
+"26",90027,2,"Los Angeles County",2018,1867,"CA","Zip Code Area",1,1,"Urban",23.5
+"27",90028,2,"Los Angeles County",2018,4666,"CA","Zip Code Area",1,1,"Urban",21.4
+"28",90029,2,"Los Angeles County",2018,2073,"CA","Zip Code Area",1,1,"Urban",19.7
+"29",90031,2,"Los Angeles County",2018,678,"CA","Zip Code Area",1,1,"Urban",20
+"30",90032,2,"Los Angeles County",2018,749,"CA","Zip Code Area",1,1,"Urban",20.1
+"31",90033,2,"Los Angeles County",2018,1126,"CA","Zip Code Area",1,1,"Urban",19.5
+"32",90034,2,"Los Angeles County",2018,498,"CA","Zip Code Area",1,1,"Urban",21.4
+"33",90035,2,"Los Angeles County",2018,679,"CA","Zip Code Area",1,1,"Urban",23.3
+"34",90036,2,"Los Angeles County",2018,1288,"CA","Zip Code Area",1,1,"Urban",24.3
+"35",90037,2,"Los Angeles County",2018,1083,"CA","Zip Code Area",1,1,"Urban",19.1
+"36",90038,2,"Los Angeles County",2018,2763,"CA","Zip Code Area",1,1,"Urban",20.5
+"37",90039,2,"Los Angeles County",2018,1498,"CA","Zip Code Area",1,1,"Urban",23.3
+"38",90040,2,"Los Angeles County",2018,390,"CA","Zip Code Area",1,1,"Urban",20.1
+"39",90041,2,"Los Angeles County",2018,526,"CA","Zip Code Area",1,1,"Urban",20.7
+"40",90042,2,"Los Angeles County",2018,651,"CA","Zip Code Area",1,1,"Urban",21.5
+"41",90043,2,"Los Angeles County",2018,1150,"CA","Zip Code Area",1,1,"Urban",21.2
+"42",90044,2,"Los Angeles County",2018,1041,"CA","Zip Code Area",1,1,"Urban",20.7
+"43",90045,2,"Los Angeles County",2018,446,"CA","Zip Code Area",1,1,"Urban",21
+"44",90046,2,"Los Angeles County",2018,2910,"CA","Zip Code Area",1,1,"Urban",25.4
+"45",90047,2,"Los Angeles County",2018,951,"CA","Zip Code Area",1,1,"Urban",21.7
+"46",90048,2,"Los Angeles County",2018,1775,"CA","Zip Code Area",1,1,"Urban",26.7
+"47",90049,2,"Los Angeles County",2018,172,"CA","Zip Code Area",1,1,"Urban",20.3
+"48",90056,2,"Los Angeles County",2018,809,"CA","Zip Code Area",1,1,"Urban",19.9
+"49",90057,2,"Los Angeles County",2018,1575,"CA","Zip Code Area",1,1,"Urban",15.3
+"50",90058,2,"Los Angeles County",2018,1079,"CA","Zip Code Area",1,1,"Urban",19.6
+"51",90059,2,"Los Angeles County",2018,887,"CA","Zip Code Area",1,1,"Urban",21.2
+"52",90061,2,"Los Angeles County",2018,794,"CA","Zip Code Area",1,1,"Urban",20.7
+"53",90062,2,"Los Angeles County",2018,1087,"CA","Zip Code Area",1,1,"Urban",20.6
+"54",90063,2,"Los Angeles County",2018,480,"CA","Zip Code Area",1,1,"Urban",20.5
+"55",90064,2,"Los Angeles County",2018,481,"CA","Zip Code Area",1,1,"Urban",20.1
+"56",90065,2,"Los Angeles County",2018,892,"CA","Zip Code Area",1,1,"Urban",21
+"57",90066,2,"Los Angeles County",2018,366,"CA","Zip Code Area",1,1,"Urban",21.1
+"58",90067,2,"Los Angeles County",2018,688,"CA","Zip Code Area",1,1,"Urban",16.4
+"59",90068,2,"Los Angeles County",2018,2607,"CA","Zip Code Area",1,1,"Urban",24
+"60",90069,2,"Los Angeles County",2018,10438,"CA","Zip Code Area",1,1,"Urban",26.4
+"61",90073,2,"Los Angeles County",2018,1115,"CA","Zip Code Area",1,1,"Urban",16.9
+"62",90077,2,"Los Angeles County",2018,237,"CA","Zip Code Area",1,1,"Urban",16.9
+"63",90094,2,"Los Angeles County",2018,658,"CA","Zip Code Area",1,1,"Urban",23.6
+"64",90201,2,"Los Angeles County",2018,416,"CA","Zip Code Area",1,1,"Urban",20.8
+"65",90210,2,"Los Angeles County",2018,653,"CA","Zip Code Area",1,1,"Urban",19.7
+"66",90211,2,"Los Angeles County",2018,1765,"CA","Zip Code Area",1,1,"Urban",22.6
+"67",90212,2,"Los Angeles County",2018,587,"CA","Zip Code Area",1,1,"Urban",22
+"68",90220,2,"Los Angeles County",2018,602,"CA","Zip Code Area",1,1,"Urban",21.1
+"69",90221,2,"Los Angeles County",2018,430,"CA","Zip Code Area",1,1,"Urban",22.1
+"70",90222,2,"Los Angeles County",2018,541,"CA","Zip Code Area",1,1,"Urban",22.2
+"71",90230,2,"Los Angeles County",2018,322,"CA","Zip Code Area",1,1,"Urban",19.7
+"72",90232,2,"Los Angeles County",2018,432,"CA","Zip Code Area",1,1,"Urban",20.8
+"73",90240,2,"Los Angeles County",2018,268,"CA","Zip Code Area",1,1,"Urban",19.1
+"74",90241,2,"Los Angeles County",2018,381,"CA","Zip Code Area",1,1,"Urban",19.6
+"75",90242,2,"Los Angeles County",2018,306,"CA","Zip Code Area",1,1,"Urban",19.6
+"76",90245,2,"Los Angeles County",2018,232,"CA","Zip Code Area",1,1,"Urban",22.7
+"77",90247,2,"Los Angeles County",2018,419,"CA","Zip Code Area",1,1,"Urban",19.9
+"78",90248,2,"Los Angeles County",2018,413,"CA","Zip Code Area",1,1,"Urban",18.5
+"79",90249,2,"Los Angeles County",2018,496,"CA","Zip Code Area",1,1,"Urban",20.5
+"80",90250,2,"Los Angeles County",2018,528,"CA","Zip Code Area",1,1,"Urban",21.3
+"81",90254,2,"Los Angeles County",2018,140,"CA","Zip Code Area",1,1,"Urban",24.2
+"82",90255,2,"Los Angeles County",2018,606,"CA","Zip Code Area",1,1,"Urban",19.7
+"83",90260,2,"Los Angeles County",2018,406,"CA","Zip Code Area",1,1,"Urban",20.8
+"84",90262,2,"Los Angeles County",2018,443,"CA","Zip Code Area",1,1,"Urban",22.2
+"85",90265,2,"Los Angeles County",2018,194,"CA","Zip Code Area",1,1,"Urban",19.9
+"86",90266,2,"Los Angeles County",2018,156,"CA","Zip Code Area",1,1,"Urban",21.7
+"87",90270,2,"Los Angeles County",2018,450,"CA","Zip Code Area",1,1,"Urban",20.5
+"88",90272,2,"Los Angeles County",2018,115,"CA","Zip Code Area",1,1,"Urban",16.9
+"89",90274,2,"Los Angeles County",2018,102,"CA","Zip Code Area",1,1,"Urban",17.7
+"90",90275,2,"Los Angeles County",2018,92,"CA","Zip Code Area",1,1,"Urban",17.2
+"91",90277,2,"Los Angeles County",2018,198,"CA","Zip Code Area",1,1,"Urban",22.7
+"92",90278,2,"Los Angeles County",2018,164,"CA","Zip Code Area",1,1,"Urban",21.6
+"93",90280,2,"Los Angeles County",2018,366,"CA","Zip Code Area",1,1,"Urban",20.8
+"94",90290,2,"Los Angeles County",2018,373,"CA","Zip Code Area",1,1,"Urban",18.2
+"95",90291,2,"Los Angeles County",2018,772,"CA","Zip Code Area",1,1,"Urban",23.7
+"96",90292,2,"Los Angeles County",2018,478,"CA","Zip Code Area",1,1,"Urban",22.2
+"97",90293,2,"Los Angeles County",2018,277,"CA","Zip Code Area",1,1,"Urban",21.5
+"98",90301,2,"Los Angeles County",2018,697,"CA","Zip Code Area",1,1,"Urban",21.1
+"99",90302,2,"Los Angeles County",2018,858,"CA","Zip Code Area",1,1,"Urban",22.4
+"100",90303,2,"Los Angeles County",2018,548,"CA","Zip Code Area",1,1,"Urban",21.7
+"101",90304,2,"Los Angeles County",2018,521,"CA","Zip Code Area",1,1,"Urban",21
+"102",90305,2,"Los Angeles County",2018,819,"CA","Zip Code Area",1,1,"Urban",22.5
+"103",90401,2,"Los Angeles County",2018,1207,"CA","Zip Code Area",1,1,"Urban",22.9
+"104",90402,2,"Los Angeles County",2018,271,"CA","Zip Code Area",1,1,"Urban",18.1
+"105",90403,2,"Los Angeles County",2018,346,"CA","Zip Code Area",1,1,"Urban",23.4
+"106",90404,2,"Los Angeles County",2018,462,"CA","Zip Code Area",1,1,"Urban",20.9
+"107",90405,2,"Los Angeles County",2018,593,"CA","Zip Code Area",1,1,"Urban",22.2
+"108",90501,2,"Los Angeles County",2018,262,"CA","Zip Code Area",1,1,"Urban",19.8
+"109",90502,2,"Los Angeles County",2018,220,"CA","Zip Code Area",1,1,"Urban",18.8
+"110",90503,2,"Los Angeles County",2018,178,"CA","Zip Code Area",1,1,"Urban",19.6
+"111",90504,2,"Los Angeles County",2018,178,"CA","Zip Code Area",1,1,"Urban",19.7
+"112",90505,2,"Los Angeles County",2018,116,"CA","Zip Code Area",1,1,"Urban",19.1
+"113",90601,2,"Los Angeles County",2018,370,"CA","Zip Code Area",1,1,"Urban",18.6
+"114",90602,2,"Los Angeles County",2018,311,"CA","Zip Code Area",1,1,"Urban",20
+"115",90603,2,"Los Angeles County",2018,160,"CA","Zip Code Area",1,1,"Urban",19.6
+"116",90604,2,"Los Angeles County",2018,208,"CA","Zip Code Area",1,1,"Urban",19.8
+"117",90605,2,"Los Angeles County",2018,249,"CA","Zip Code Area",1,1,"Urban",19.7
+"118",90606,2,"Los Angeles County",2018,342,"CA","Zip Code Area",1,1,"Urban",19.3
+"119",90620,3,"Orange County",2018,190,"CA","Zip Code Area",1,1,"Urban",16.8
+"120",90621,3,"Orange County",2018,244,"CA","Zip Code Area",1,1,"Urban",16.3
+"121",90623,3,"Orange County",2018,105,"CA","Zip Code Area",1,1,"Urban",15.5
+"122",90630,3,"Orange County",2018,152,"CA","Zip Code Area",1,1,"Urban",16.9
+"123",90631,2,"Los Angeles County",2018,20,"CA","Zip Code Area",1,1,"Urban",17.8
+"124",90638,2,"Los Angeles County",2018,154,"CA","Zip Code Area",1,1,"Urban",19.2
+"125",90640,2,"Los Angeles County",2018,403,"CA","Zip Code Area",1,1,"Urban",19.2
+"126",90650,2,"Los Angeles County",2018,318,"CA","Zip Code Area",1,1,"Urban",18.8
+"127",90660,2,"Los Angeles County",2018,350,"CA","Zip Code Area",1,1,"Urban",18.9
+"128",90670,2,"Los Angeles County",2018,331,"CA","Zip Code Area",1,1,"Urban",19.4
+"129",90680,3,"Orange County",2018,394,"CA","Zip Code Area",1,1,"Urban",16.3
+"130",90701,2,"Los Angeles County",2018,177,"CA","Zip Code Area",1,1,"Urban",17.3
+"131",90703,2,"Los Angeles County",2018,137,"CA","Zip Code Area",1,1,"Urban",15.6
+"132",90704,2,"Los Angeles County",2018,351,"CA","Zip Code Area",7,7,"Rural",22.7
+"133",90706,2,"Los Angeles County",2018,316,"CA","Zip Code Area",1,1,"Urban",19.7
+"134",90710,2,"Los Angeles County",2018,295,"CA","Zip Code Area",1,1,"Urban",19.6
+"135",90712,2,"Los Angeles County",2018,311,"CA","Zip Code Area",1,1,"Urban",20
+"136",90713,2,"Los Angeles County",2018,179,"CA","Zip Code Area",1,1,"Urban",20.9
+"137",90715,2,"Los Angeles County",2018,179,"CA","Zip Code Area",1,1,"Urban",19.3
+"138",90716,2,"Los Angeles County",2018,293,"CA","Zip Code Area",1,1,"Urban",20.4
+"139",90717,2,"Los Angeles County",2018,233,"CA","Zip Code Area",1,1,"Urban",21.4
+"140",90720,3,"Orange County",2018,114,"CA","Zip Code Area",1,1,"Urban",18.1
+"141",90723,2,"Los Angeles County",2018,412,"CA","Zip Code Area",1,1,"Urban",21.4
+"142",90731,2,"Los Angeles County",2018,740,"CA","Zip Code Area",1,1,"Urban",21.8
+"143",90732,2,"Los Angeles County",2018,303,"CA","Zip Code Area",1,1,"Urban",20.7
+"144",90740,3,"Orange County",2018,148,"CA","Zip Code Area",1,1,"Urban",16.5
+"145",90744,2,"Los Angeles County",2018,423,"CA","Zip Code Area",1,1,"Urban",21.5
+"146",90745,2,"Los Angeles County",2018,249,"CA","Zip Code Area",1,1,"Urban",18.6
+"147",90746,2,"Los Angeles County",2018,517,"CA","Zip Code Area",1,1,"Urban",20.9
+"148",90755,2,"Los Angeles County",2018,999,"CA","Zip Code Area",1,1,"Urban",21.5
+"149",90802,2,"Los Angeles County",2018,3097,"CA","Zip Code Area",1,1,"Urban",22.5
+"150",90803,2,"Los Angeles County",2018,1088,"CA","Zip Code Area",1,1,"Urban",23.9
+"151",90804,2,"Los Angeles County",2018,1335,"CA","Zip Code Area",1,1,"Urban",22.1
+"152",90805,2,"Los Angeles County",2018,628,"CA","Zip Code Area",1,1,"Urban",20.8
+"153",90806,2,"Los Angeles County",2018,1172,"CA","Zip Code Area",1,1,"Urban",20
+"154",90807,2,"Los Angeles County",2018,918,"CA","Zip Code Area",1,1,"Urban",20.9
+"155",90808,2,"Los Angeles County",2018,303,"CA","Zip Code Area",1,1,"Urban",21.3
+"156",90810,2,"Los Angeles County",2018,401,"CA","Zip Code Area",1,1,"Urban",18.9
+"157",90813,2,"Los Angeles County",2018,1538,"CA","Zip Code Area",1,1,"Urban",19.6
+"158",90814,2,"Los Angeles County",2018,1642,"CA","Zip Code Area",1,1,"Urban",24.6
+"159",90815,2,"Los Angeles County",2018,539,"CA","Zip Code Area",1,1,"Urban",21.7
+"160",91001,2,"Los Angeles County",2018,427,"CA","Zip Code Area",1,1,"Urban",19
+"161",91006,2,"Los Angeles County",2018,126,"CA","Zip Code Area",1,1,"Urban",14.6
+"162",91007,2,"Los Angeles County",2018,105,"CA","Zip Code Area",1,1,"Urban",14.8
+"163",91010,2,"Los Angeles County",2018,266,"CA","Zip Code Area",1,1,"Urban",18.6
+"164",91011,2,"Los Angeles County",2018,87,"CA","Zip Code Area",1,1,"Urban",16.8
+"165",91016,2,"Los Angeles County",2018,292,"CA","Zip Code Area",1,1,"Urban",19
+"166",91020,2,"Los Angeles County",2018,124,"CA","Zip Code Area",1,1,"Urban",21.3
+"167",91024,2,"Los Angeles County",2018,212,"CA","Zip Code Area",1,1,"Urban",17.1
+"168",91030,2,"Los Angeles County",2018,309,"CA","Zip Code Area",1,1,"Urban",18.5
+"169",91040,2,"Los Angeles County",2018,225,"CA","Zip Code Area",1,1,"Urban",21.7
+"170",91042,2,"Los Angeles County",2018,239,"CA","Zip Code Area",1,1,"Urban",21.3
+"171",91101,2,"Los Angeles County",2018,471,"CA","Zip Code Area",1,1,"Urban",19.1
+"172",91103,2,"Los Angeles County",2018,532,"CA","Zip Code Area",1,1,"Urban",18.3
+"173",91104,2,"Los Angeles County",2018,464,"CA","Zip Code Area",1,1,"Urban",20.2
+"174",91105,2,"Los Angeles County",2018,446,"CA","Zip Code Area",1,1,"Urban",18.4
+"175",91106,2,"Los Angeles County",2018,383,"CA","Zip Code Area",1,1,"Urban",19.7
+"176",91107,2,"Los Angeles County",2018,360,"CA","Zip Code Area",1,1,"Urban",18.1
+"177",91108,2,"Los Angeles County",2018,107,"CA","Zip Code Area",1,1,"Urban",13.7
+"178",91201,2,"Los Angeles County",2018,395,"CA","Zip Code Area",1,1,"Urban",21.9
+"179",91202,2,"Los Angeles County",2018,309,"CA","Zip Code Area",1,1,"Urban",21.9
+"180",91203,2,"Los Angeles County",2018,369,"CA","Zip Code Area",1,1,"Urban",22.9
+"181",91204,2,"Los Angeles County",2018,547,"CA","Zip Code Area",1,1,"Urban",21.3
+"182",91205,2,"Los Angeles County",2018,402,"CA","Zip Code Area",1,1,"Urban",21.7
+"183",91206,2,"Los Angeles County",2018,305,"CA","Zip Code Area",1,1,"Urban",21.4
+"184",91207,2,"Los Angeles County",2018,263,"CA","Zip Code Area",1,1,"Urban",20.4
+"185",91208,2,"Los Angeles County",2018,130,"CA","Zip Code Area",1,1,"Urban",20.4
+"186",91214,2,"Los Angeles County",2018,100,"CA","Zip Code Area",1,1,"Urban",18.4
+"187",91301,2,"Los Angeles County",2018,125,"CA","Zip Code Area",1,1,"Urban",20.7
+"188",91302,2,"Los Angeles County",2018,112,"CA","Zip Code Area",1,1,"Urban",19.6
+"189",91303,2,"Los Angeles County",2018,520,"CA","Zip Code Area",1,1,"Urban",19.3
+"190",91304,2,"Los Angeles County",2018,249,"CA","Zip Code Area",1,1,"Urban",19.1
+"191",91306,2,"Los Angeles County",2018,374,"CA","Zip Code Area",1,1,"Urban",19.8
+"192",91307,2,"Los Angeles County",2018,207,"CA","Zip Code Area",1,1,"Urban",18.9
+"193",91311,2,"Los Angeles County",2018,261,"CA","Zip Code Area",1,1,"Urban",19.4
+"194",91316,2,"Los Angeles County",2018,290,"CA","Zip Code Area",1,1,"Urban",22.6
+"195",91321,2,"Los Angeles County",2018,240,"CA","Zip Code Area",2,2,"Suburban",20.6
+"196",91324,2,"Los Angeles County",2018,442,"CA","Zip Code Area",1,1,"Urban",20.1
+"197",91325,2,"Los Angeles County",2018,278,"CA","Zip Code Area",1,1,"Urban",19.8
+"198",91326,2,"Los Angeles County",2018,97,"CA","Zip Code Area",1,1,"Urban",17.2
+"199",91331,2,"Los Angeles County",2018,390,"CA","Zip Code Area",1,1,"Urban",19.9
+"200",91335,2,"Los Angeles County",2018,447,"CA","Zip Code Area",1,1,"Urban",20.1
+"201",91340,2,"Los Angeles County",2018,405,"CA","Zip Code Area",1,1,"Urban",20.4
+"202",91342,2,"Los Angeles County",2018,376,"CA","Zip Code Area",1,1,"Urban",19.2
+"203",91343,2,"Los Angeles County",2018,413,"CA","Zip Code Area",1,1,"Urban",19.2
+"204",91344,2,"Los Angeles County",2018,187,"CA","Zip Code Area",1,1,"Urban",19.5
+"205",91345,2,"Los Angeles County",2018,357,"CA","Zip Code Area",1,1,"Urban",19.5
+"206",91350,2,"Los Angeles County",2018,369,"CA","Zip Code Area",2,2,"Suburban",19.4
+"207",91351,2,"Los Angeles County",2018,232,"CA","Zip Code Area",2,2,"Suburban",20.6
+"208",91352,2,"Los Angeles County",2018,431,"CA","Zip Code Area",1,1,"Urban",20
+"209",91354,2,"Los Angeles County",2018,119,"CA","Zip Code Area",2,2,"Suburban",19.3
+"210",91355,2,"Los Angeles County",2018,127,"CA","Zip Code Area",2,2,"Suburban",20
+"211",91356,2,"Los Angeles County",2018,397,"CA","Zip Code Area",1,1,"Urban",20.7
+"212",91361,2,"Los Angeles County",2018,73,"CA","Zip Code Area",1,1,"Urban",21.6
+"213",91364,2,"Los Angeles County",2018,329,"CA","Zip Code Area",1,1,"Urban",19.8
+"214",91367,2,"Los Angeles County",2018,273,"CA","Zip Code Area",1,1,"Urban",20.4
+"215",91381,2,"Los Angeles County",2018,140,"CA","Zip Code Area",2,2,"Suburban",18.2
+"216",91384,2,"Los Angeles County",2018,99,"CA","Zip Code Area",2,2,"Suburban",18.8
+"217",91387,2,"Los Angeles County",2018,155,"CA","Zip Code Area",2,2,"Suburban",20.2
+"218",91390,2,"Los Angeles County",2018,204,"CA","Zip Code Area",2,2,"Suburban",20.7
+"219",91401,2,"Los Angeles County",2018,754,"CA","Zip Code Area",1,1,"Urban",21.7
+"220",91402,2,"Los Angeles County",2018,529,"CA","Zip Code Area",1,1,"Urban",18.2
+"221",91403,2,"Los Angeles County",2018,1132,"CA","Zip Code Area",1,1,"Urban",22.2
+"222",91405,2,"Los Angeles County",2018,773,"CA","Zip Code Area",1,1,"Urban",19.9
+"223",91406,2,"Los Angeles County",2018,654,"CA","Zip Code Area",1,1,"Urban",20.6
+"224",91411,2,"Los Angeles County",2018,523,"CA","Zip Code Area",1,1,"Urban",21
+"225",91423,2,"Los Angeles County",2018,640,"CA","Zip Code Area",1,1,"Urban",22.4
+"226",91436,2,"Los Angeles County",2018,241,"CA","Zip Code Area",1,1,"Urban",18.2
+"227",91501,2,"Los Angeles County",2018,248,"CA","Zip Code Area",1,1,"Urban",22.6
+"228",91502,2,"Los Angeles County",2018,468,"CA","Zip Code Area",1,1,"Urban",22.7
+"229",91504,2,"Los Angeles County",2018,220,"CA","Zip Code Area",1,1,"Urban",21.3
+"230",91505,2,"Los Angeles County",2018,473,"CA","Zip Code Area",1,1,"Urban",21.4
+"231",91506,2,"Los Angeles County",2018,306,"CA","Zip Code Area",1,1,"Urban",21.4
+"232",91601,2,"Los Angeles County",2018,1580,"CA","Zip Code Area",1,1,"Urban",22.2
+"233",91602,2,"Los Angeles County",2018,890,"CA","Zip Code Area",1,1,"Urban",23.9
+"234",91604,2,"Los Angeles County",2018,904,"CA","Zip Code Area",1,1,"Urban",21.4
+"235",91605,2,"Los Angeles County",2018,601,"CA","Zip Code Area",1,1,"Urban",20.1
+"236",91606,2,"Los Angeles County",2018,794,"CA","Zip Code Area",1,1,"Urban",21.1
+"237",91607,2,"Los Angeles County",2018,811,"CA","Zip Code Area",1,1,"Urban",23.1
+"238",91702,2,"Los Angeles County",2018,276,"CA","Zip Code Area",1,1,"Urban",18.6
+"239",91706,2,"Los Angeles County",2018,251,"CA","Zip Code Area",1,1,"Urban",17.8
+"240",91711,2,"Los Angeles County",2018,169,"CA","Zip Code Area",1,1,"Urban",20
+"241",91722,2,"Los Angeles County",2018,272,"CA","Zip Code Area",1,1,"Urban",18.1
+"242",91723,2,"Los Angeles County",2018,306,"CA","Zip Code Area",1,1,"Urban",19.7
+"243",91724,2,"Los Angeles County",2018,163,"CA","Zip Code Area",1,1,"Urban",18.2
+"244",91731,2,"Los Angeles County",2018,647,"CA","Zip Code Area",1,1,"Urban",16.6
+"245",91732,2,"Los Angeles County",2018,316,"CA","Zip Code Area",1,1,"Urban",16.9
+"246",91733,2,"Los Angeles County",2018,171,"CA","Zip Code Area",1,1,"Urban",18
+"247",91740,2,"Los Angeles County",2018,206,"CA","Zip Code Area",1,1,"Urban",19.2
+"248",91741,2,"Los Angeles County",2018,150,"CA","Zip Code Area",1,1,"Urban",19.4
+"249",91744,2,"Los Angeles County",2018,306,"CA","Zip Code Area",1,1,"Urban",18.2
+"250",91745,2,"Los Angeles County",2018,158,"CA","Zip Code Area",1,1,"Urban",16.2
+"251",91746,2,"Los Angeles County",2018,277,"CA","Zip Code Area",1,1,"Urban",18.5
+"252",91748,2,"Los Angeles County",2018,169,"CA","Zip Code Area",1,1,"Urban",15.2
+"253",91750,2,"Los Angeles County",2018,129,"CA","Zip Code Area",1,1,"Urban",20.1
+"254",91754,2,"Los Angeles County",2018,245,"CA","Zip Code Area",1,1,"Urban",14.5
+"255",91755,2,"Los Angeles County",2018,149,"CA","Zip Code Area",1,1,"Urban",13.8
+"256",91765,2,"Los Angeles County",2018,129,"CA","Zip Code Area",1,1,"Urban",15.1
+"257",91766,2,"Los Angeles County",2018,320,"CA","Zip Code Area",1,1,"Urban",19.1
+"258",91767,2,"Los Angeles County",2018,438,"CA","Zip Code Area",1,1,"Urban",18.8
+"259",91768,2,"Los Angeles County",2018,430,"CA","Zip Code Area",1,1,"Urban",19.4
+"260",91770,2,"Los Angeles County",2018,150,"CA","Zip Code Area",1,1,"Urban",14.4
+"261",91773,2,"Los Angeles County",2018,140,"CA","Zip Code Area",1,1,"Urban",18.8
+"262",91775,2,"Los Angeles County",2018,133,"CA","Zip Code Area",1,1,"Urban",15.5
+"263",91776,2,"Los Angeles County",2018,246,"CA","Zip Code Area",1,1,"Urban",14.8
+"264",91780,2,"Los Angeles County",2018,180,"CA","Zip Code Area",1,1,"Urban",15.2
+"265",91789,2,"Los Angeles County",2018,95,"CA","Zip Code Area",1,1,"Urban",14.1
+"266",91790,2,"Los Angeles County",2018,228,"CA","Zip Code Area",1,1,"Urban",17.5
+"267",91791,2,"Los Angeles County",2018,231,"CA","Zip Code Area",1,1,"Urban",17.5
+"268",91792,2,"Los Angeles County",2018,270,"CA","Zip Code Area",1,1,"Urban",17.1
+"269",91801,2,"Los Angeles County",2018,293,"CA","Zip Code Area",1,1,"Urban",16.6
+"270",91803,2,"Los Angeles County",2018,295,"CA","Zip Code Area",1,1,"Urban",15.9
+"271",92602,3,"Orange County",2018,122,"CA","Zip Code Area",1,1,"Urban",16.4
+"272",92603,3,"Orange County",2018,121,"CA","Zip Code Area",1,1.1,"Urban",15.8
+"273",92604,3,"Orange County",2018,157,"CA","Zip Code Area",1,1,"Urban",17.5
+"274",92606,3,"Orange County",2018,181,"CA","Zip Code Area",1,1,"Urban",16.5
+"275",92610,3,"Orange County",2018,91,"CA","Zip Code Area",1,1.1,"Urban",15.8
+"276",92612,3,"Orange County",2018,215,"CA","Zip Code Area",1,1,"Urban",16.8
+"277",92614,3,"Orange County",2018,200,"CA","Zip Code Area",1,1,"Urban",18.2
+"278",92617,3,"Orange County",2018,83,"CA","Zip Code Area",1,1,"Urban",21.4
+"279",92618,3,"Orange County",2018,455,"CA","Zip Code Area",1,1,"Urban",18.6
+"280",92620,3,"Orange County",2018,154,"CA","Zip Code Area",1,1,"Urban",17
+"281",92624,3,"Orange County",2018,255,"CA","Zip Code Area",1,1.1,"Urban",19.7
+"282",92625,3,"Orange County",2018,205,"CA","Zip Code Area",1,1,"Urban",15.6
+"283",92626,3,"Orange County",2018,289,"CA","Zip Code Area",1,1,"Urban",20.2
+"284",92627,3,"Orange County",2018,320,"CA","Zip Code Area",1,1,"Urban",19.9
+"285",92629,3,"Orange County",2018,317,"CA","Zip Code Area",1,1.1,"Urban",19.1
+"286",92630,3,"Orange County",2018,231,"CA","Zip Code Area",1,1.1,"Urban",18.9
+"287",92637,3,"Orange County",2018,206,"CA","Zip Code Area",1,1.1,"Urban",13.4
+"288",92646,3,"Orange County",2018,172,"CA","Zip Code Area",1,1,"Urban",18.9
+"289",92647,3,"Orange County",2018,243,"CA","Zip Code Area",1,1,"Urban",19.1
+"290",92648,3,"Orange County",2018,209,"CA","Zip Code Area",1,1,"Urban",19.7
+"291",92649,3,"Orange County",2018,141,"CA","Zip Code Area",1,1,"Urban",18.6
+"292",92651,3,"Orange County",2018,940,"CA","Zip Code Area",1,1.1,"Urban",18.2
+"293",92653,3,"Orange County",2018,249,"CA","Zip Code Area",1,1.1,"Urban",18.2
+"294",92655,3,"Orange County",2018,320,"CA","Zip Code Area",1,1,"Urban",14.6
+"295",92656,3,"Orange County",2018,221,"CA","Zip Code Area",1,1.1,"Urban",19.1
+"296",92657,3,"Orange County",2018,274,"CA","Zip Code Area",1,1,"Urban",16.2
+"297",92660,3,"Orange County",2018,170,"CA","Zip Code Area",1,1,"Urban",17.9
+"298",92661,3,"Orange County",2018,347,"CA","Zip Code Area",1,1,"Urban",20.9
+"299",92662,3,"Orange County",2018,232,"CA","Zip Code Area",1,1,"Urban",16.8
+"300",92663,3,"Orange County",2018,237,"CA","Zip Code Area",1,1,"Urban",20.4
+"301",92672,3,"Orange County",2018,193,"CA","Zip Code Area",1,1.1,"Urban",19.8
+"302",92673,3,"Orange County",2018,131,"CA","Zip Code Area",1,1.1,"Urban",18.1
+"303",92675,3,"Orange County",2018,159,"CA","Zip Code Area",1,1.1,"Urban",18
+"304",92677,3,"Orange County",2018,282,"CA","Zip Code Area",1,1.1,"Urban",18.9
+"305",92679,3,"Orange County",2018,89,"CA","Zip Code Area",1,1.1,"Urban",18.3
+"306",92683,3,"Orange County",2018,243,"CA","Zip Code Area",1,1,"Urban",15.2
+"307",92688,3,"Orange County",2018,118,"CA","Zip Code Area",1,1.1,"Urban",19
+"308",92691,3,"Orange County",2018,183,"CA","Zip Code Area",1,1.1,"Urban",18.9
+"309",92692,3,"Orange County",2018,150,"CA","Zip Code Area",1,1.1,"Urban",18
+"310",92694,3,"Orange County",2018,148,"CA","Zip Code Area",1,1.1,"Urban",17.7
+"311",92701,3,"Orange County",2018,886,"CA","Zip Code Area",1,1,"Urban",17.9
+"312",92703,3,"Orange County",2018,878,"CA","Zip Code Area",1,1,"Urban",17.3
+"313",92704,3,"Orange County",2018,357,"CA","Zip Code Area",1,1,"Urban",17.3
+"314",92705,3,"Orange County",2018,305,"CA","Zip Code Area",1,1,"Urban",17.7
+"315",92706,3,"Orange County",2018,896,"CA","Zip Code Area",1,1,"Urban",17.7
+"316",92707,3,"Orange County",2018,387,"CA","Zip Code Area",1,1,"Urban",18.8
+"317",92708,3,"Orange County",2018,203,"CA","Zip Code Area",1,1,"Urban",16.8
+"318",92780,3,"Orange County",2018,407,"CA","Zip Code Area",1,1,"Urban",18.4
+"319",92782,3,"Orange County",2018,227,"CA","Zip Code Area",1,1,"Urban",18
+"320",92801,3,"Orange County",2018,417,"CA","Zip Code Area",1,1,"Urban",17.5
+"321",92802,3,"Orange County",2018,415,"CA","Zip Code Area",1,1,"Urban",17.4
+"322",92804,3,"Orange County",2018,356,"CA","Zip Code Area",1,1,"Urban",17.1
+"323",92805,3,"Orange County",2018,436,"CA","Zip Code Area",1,1,"Urban",17.9
+"324",92806,3,"Orange County",2018,399,"CA","Zip Code Area",1,1,"Urban",19.1
+"325",92807,3,"Orange County",2018,204,"CA","Zip Code Area",1,1,"Urban",16.9
+"326",92808,3,"Orange County",2018,150,"CA","Zip Code Area",1,1,"Urban",17.1
+"327",92821,3,"Orange County",2018,166,"CA","Zip Code Area",1,1,"Urban",18.6
+"328",92823,3,"Orange County",2018,171,"CA","Zip Code Area",1,1,"Urban",14.5
+"329",92831,3,"Orange County",2018,247,"CA","Zip Code Area",1,1,"Urban",18.1
+"330",92832,3,"Orange County",2018,305,"CA","Zip Code Area",1,1,"Urban",18.8
+"331",92833,3,"Orange County",2018,179,"CA","Zip Code Area",1,1,"Urban",16.3
+"332",92835,3,"Orange County",2018,175,"CA","Zip Code Area",1,1,"Urban",16.3
+"333",92840,3,"Orange County",2018,357,"CA","Zip Code Area",1,1,"Urban",16.1
+"334",92841,3,"Orange County",2018,238,"CA","Zip Code Area",1,1,"Urban",15.7
+"335",92843,3,"Orange County",2018,279,"CA","Zip Code Area",1,1,"Urban",15.3
+"336",92844,3,"Orange County",2018,204,"CA","Zip Code Area",1,1,"Urban",14.1
+"337",92845,3,"Orange County",2018,137,"CA","Zip Code Area",1,1,"Urban",18.5
+"338",92861,3,"Orange County",2018,118,"CA","Zip Code Area",1,1,"Urban",15.8
+"339",92865,3,"Orange County",2018,279,"CA","Zip Code Area",1,1,"Urban",18.1
+"340",92866,3,"Orange County",2018,367,"CA","Zip Code Area",1,1,"Urban",21.7
+"341",92867,3,"Orange County",2018,175,"CA","Zip Code Area",1,1,"Urban",18.7
+"342",92868,3,"Orange County",2018,354,"CA","Zip Code Area",1,1,"Urban",19.4
+"343",92869,3,"Orange County",2018,252,"CA","Zip Code Area",1,1,"Urban",16.9
+"344",92870,3,"Orange County",2018,176,"CA","Zip Code Area",1,1,"Urban",17.5
+"345",92886,3,"Orange County",2018,87,"CA","Zip Code Area",1,1,"Urban",17
+"346",92887,3,"Orange County",2018,88,"CA","Zip Code Area",1,1,"Urban",16.9
+"347",93510,2,"Los Angeles County",2018,144,"CA","Zip Code Area",2,2,"Suburban",21.5
+"348",93534,2,"Los Angeles County",2018,623,"CA","Zip Code Area",1,1,"Urban",21.9
+"349",93535,2,"Los Angeles County",2018,416,"CA","Zip Code Area",1,1,"Urban",20.8
+"350",93536,2,"Los Angeles County",2018,397,"CA","Zip Code Area",1,1,"Urban",20.7
+"351",93543,2,"Los Angeles County",2018,239,"CA","Zip Code Area",1,1,"Urban",20.4
+"352",93550,2,"Los Angeles County",2018,437,"CA","Zip Code Area",1,1,"Urban",20.9
+"353",93551,2,"Los Angeles County",2018,240,"CA","Zip Code Area",1,1,"Urban",19.9
+"354",93552,2,"Los Angeles County",2018,294,"CA","Zip Code Area",1,1,"Urban",21.1
+"355",93591,2,"Los Angeles County",2018,228,"CA","Zip Code Area",2,2.1,"Suburban",19.2
+"356",94102,1,"San Francisco",2018,4614,"CA","Zip Code Area",1,1,"Urban",17.4
+"357",94103,1,"San Francisco",2018,4336,"CA","Zip Code Area",1,1,"Urban",17.9
+"358",94105,1,"San Francisco",2018,2505,"CA","Zip Code Area",1,1,"Urban",20
+"359",94107,1,"San Francisco",2018,1722,"CA","Zip Code Area",1,1,"Urban",21.2
+"360",94108,1,"San Francisco",2018,1023,"CA","Zip Code Area",1,1,"Urban",18.1
+"361",94109,1,"San Francisco",2018,1880,"CA","Zip Code Area",1,1,"Urban",22
+"362",94110,1,"San Francisco",2018,1928,"CA","Zip Code Area",1,1,"Urban",20.8
+"363",94111,1,"San Francisco",2018,875,"CA","Zip Code Area",1,1,"Urban",16.3
+"364",94112,1,"San Francisco",2018,715,"CA","Zip Code Area",1,1,"Urban",17.2
+"365",94114,1,"San Francisco",2018,6532,"CA","Zip Code Area",1,1,"Urban",23.8
+"366",94115,1,"San Francisco",2018,1496,"CA","Zip Code Area",1,1,"Urban",22.2
+"367",94116,1,"San Francisco",2018,613,"CA","Zip Code Area",1,1,"Urban",17.3
+"368",94117,1,"San Francisco",2018,2183,"CA","Zip Code Area",1,1,"Urban",24.7
+"369",94118,1,"San Francisco",2018,483,"CA","Zip Code Area",1,1,"Urban",20.5
+"370",94121,1,"San Francisco",2018,412,"CA","Zip Code Area",1,1,"Urban",18.3
+"371",94122,1,"San Francisco",2018,455,"CA","Zip Code Area",1,1,"Urban",18.9
+"372",94123,1,"San Francisco",2018,306,"CA","Zip Code Area",1,1,"Urban",26
+"373",94124,1,"San Francisco",2018,1185,"CA","Zip Code Area",1,1,"Urban",18
+"374",94127,1,"San Francisco",2018,733,"CA","Zip Code Area",1,1,"Urban",18.3
+"375",94129,1,"San Francisco",2018,699,"CA","Zip Code Area",1,1,"Urban",23.9
+"376",94130,1,"San Francisco",2018,1786,"CA","Zip Code Area",1,1,"Urban",15.3
+"377",94131,1,"San Francisco",2018,2713,"CA","Zip Code Area",1,1,"Urban",21.4
+"378",94132,1,"San Francisco",2018,664,"CA","Zip Code Area",1,1,"Urban",18.4
+"379",94133,1,"San Francisco",2018,476,"CA","Zip Code Area",1,1,"Urban",16.8
+"380",94134,1,"San Francisco",2018,701,"CA","Zip Code Area",1,1,"Urban",15.8
+"381",94158,1,"San Francisco",2018,2450,"CA","Zip Code Area",1,1,"Urban",19.1
+"382",94501,4,"Alameda County",2018,424,"CA","Zip Code Area",1,1,"Urban",17.9
+"383",94502,4,"Alameda County",2018,131,"CA","Zip Code Area",1,1,"Urban",14.8
+"384",94536,4,"Alameda County",2018,173,"CA","Zip Code Area",1,1,"Urban",15.8
+"385",94538,4,"Alameda County",2018,183,"CA","Zip Code Area",1,1,"Urban",16
+"386",94539,4,"Alameda County",2018,64,"CA","Zip Code Area",1,1,"Urban",12.3
+"387",94541,4,"Alameda County",2018,514,"CA","Zip Code Area",1,1,"Urban",17.8
+"388",94542,4,"Alameda County",2018,315,"CA","Zip Code Area",1,1,"Urban",17.3
+"389",94544,4,"Alameda County",2018,383,"CA","Zip Code Area",1,1,"Urban",16.7
+"390",94545,4,"Alameda County",2018,323,"CA","Zip Code Area",1,1,"Urban",15.6
+"391",94546,4,"Alameda County",2018,252,"CA","Zip Code Area",1,1,"Urban",17.3
+"392",94550,4,"Alameda County",2018,155,"CA","Zip Code Area",2,2,"Suburban",17.2
+"393",94551,4,"Alameda County",2018,173,"CA","Zip Code Area",2,2,"Suburban",16.7
+"394",94552,4,"Alameda County",2018,216,"CA","Zip Code Area",1,1,"Urban",14.5
+"395",94555,4,"Alameda County",2018,145,"CA","Zip Code Area",1,1,"Urban",13.7
+"396",94560,4,"Alameda County",2018,138,"CA","Zip Code Area",1,1,"Urban",15.2
+"397",94566,4,"Alameda County",2018,98,"CA","Zip Code Area",1,1,"Urban",16.2
+"398",94568,4,"Alameda County",2018,418,"CA","Zip Code Area",1,1,"Urban",17
+"399",94577,4,"Alameda County",2018,554,"CA","Zip Code Area",1,1,"Urban",16.9
+"400",94578,4,"Alameda County",2018,584,"CA","Zip Code Area",1,1,"Urban",17.7
+"401",94579,4,"Alameda County",2018,270,"CA","Zip Code Area",1,1,"Urban",14.3
+"402",94580,4,"Alameda County",2018,393,"CA","Zip Code Area",1,1,"Urban",16.4
+"403",94587,4,"Alameda County",2018,168,"CA","Zip Code Area",1,1,"Urban",14.7
+"404",94588,4,"Alameda County",2018,111,"CA","Zip Code Area",1,1,"Urban",15.7
+"405",94601,4,"Oakland",2018,859,"CA","Zip Code Area",1,1,"Urban",15.9
+"406",94602,4,"Oakland",2018,776,"CA","Zip Code Area",1,1,"Urban",17.6
+"407",94603,4,"Oakland",2018,850,"CA","Zip Code Area",1,1,"Urban",17.6
+"408",94605,4,"Oakland",2018,1103,"CA","Zip Code Area",1,1,"Urban",18.2
+"409",94606,4,"Oakland",2018,962,"CA","Zip Code Area",1,1,"Urban",16
+"410",94607,4,"Oakland",2018,1335,"CA","Zip Code Area",1,1,"Urban",16.1
+"411",94608,4,"Oakland",2018,1382,"CA","Zip Code Area",1,1,"Urban",18.8
+"412",94609,4,"Oakland",2018,1050,"CA","Zip Code Area",1,1,"Urban",22.2
+"413",94610,4,"Oakland",2018,952,"CA","Zip Code Area",1,1,"Urban",19.7
+"414",94611,4,"Oakland",2018,561,"CA","Zip Code Area",1,1,"Urban",17.4
+"415",94612,4,"Oakland",2018,2259,"CA","Zip Code Area",1,1,"Urban",16
+"416",94618,4,"Oakland",2018,290,"CA","Zip Code Area",1,1,"Urban",19.4
+"417",94619,4,"Oakland",2018,762,"CA","Zip Code Area",1,1,"Urban",17.5
+"418",94621,4,"Oakland",2018,1281,"CA","Zip Code Area",1,1,"Urban",17
+"419",94702,4,"Alameda County",2018,742,"CA","Zip Code Area",1,1,"Urban",20.2
+"420",94703,4,"Alameda County",2018,540,"CA","Zip Code Area",1,1,"Urban",20
+"421",94704,4,"Alameda County",2018,295,"CA","Zip Code Area",1,1,"Urban",18.2
+"422",94705,4,"Alameda County",2018,440,"CA","Zip Code Area",1,1,"Urban",20.1
+"423",94706,4,"Alameda County",2018,231,"CA","Zip Code Area",1,1,"Urban",17.8
+"424",94707,4,"Alameda County",2018,256,"CA","Zip Code Area",1,1,"Urban",17.7
+"425",94708,4,"Alameda County",2018,322,"CA","Zip Code Area",1,1,"Urban",17.5
+"426",94709,4,"Alameda County",2018,340,"CA","Zip Code Area",1,1,"Urban",21.8
+"427",94710,4,"Alameda County",2018,776,"CA","Zip Code Area",1,1,"Urban",19.7
+"428",95391,4,"Alameda County",2018,250,"CA","Zip Code Area",3,3,"Rural",17.6
+"429",91901,5,"San Diego County",NA,173.3,"CA","Zip Code Area",1,1,"Urban",19.3
+"430",91902,5,"San Diego County",NA,247.5,"CA","Zip Code Area",1,1,"Urban",18.5
+"431",91910,5,"San Diego County",NA,391.9,"CA","Zip Code Area",1,1,"Urban",20.5
+"432",91911,5,"San Diego County",NA,424.2,"CA","Zip Code Area",1,1,"Urban",20.2
+"433",91913,5,"San Diego County",NA,187.8,"CA","Zip Code Area",1,1,"Urban",18.4
+"434",91914,5,"San Diego County",NA,140.6,"CA","Zip Code Area",1,1,"Urban",18.7
+"435",91915,5,"San Diego County",NA,191.3,"CA","Zip Code Area",1,1,"Urban",18.8
+"436",91932,5,"San Diego County",NA,387,"CA","Zip Code Area",1,1,"Urban",22.5
+"437",91935,5,"San Diego County",NA,150.5,"CA","Zip Code Area",1,1,"Urban",20.1
+"438",91941,5,"San Diego County",NA,382,"CA","Zip Code Area",1,1,"Urban",20.7
+"439",91942,5,"San Diego County",NA,355.9,"CA","Zip Code Area",1,1,"Urban",23.1
+"440",91945,5,"San Diego County",NA,421.1,"CA","Zip Code Area",1,1,"Urban",19.9
+"441",91950,5,"San Diego County",NA,383.9,"CA","Zip Code Area",1,1,"Urban",19.3
+"442",91977,5,"San Diego County",NA,347.2,"CA","Zip Code Area",1,1,"Urban",19.5
+"443",91978,5,"San Diego County",NA,320.4,"CA","Zip Code Area",1,1,"Urban",20.3
+"444",92007,5,"San Diego County",NA,116.5,"CA","Zip Code Area",1,1,"Urban",21.9
+"445",92008,5,"San Diego County",NA,180.3,"CA","Zip Code Area",1,1,"Urban",23.1
+"446",92009,5,"San Diego County",NA,99.1,"CA","Zip Code Area",1,1,"Urban",20.2
+"447",92010,5,"San Diego County",NA,67.4,"CA","Zip Code Area",1,1,"Urban",20.6
+"448",92011,5,"San Diego County",NA,100.5,"CA","Zip Code Area",1,1,"Urban",19.4
+"449",92014,5,"San Diego County",NA,145.1,"CA","Zip Code Area",1,1,"Urban",19.3
+"450",92019,5,"San Diego County",NA,142.2,"CA","Zip Code Area",1,1,"Urban",21.2
+"451",92020,5,"San Diego County",NA,211.8,"CA","Zip Code Area",1,1,"Urban",21.2
+"452",92021,5,"San Diego County",NA,219.4,"CA","Zip Code Area",1,1,"Urban",20.7
+"453",92024,5,"San Diego County",NA,107.9,"CA","Zip Code Area",1,1,"Urban",21.5
+"454",92025,5,"San Diego County",NA,178.6,"CA","Zip Code Area",1,1,"Urban",21.4
+"455",92026,5,"San Diego County",NA,148.6,"CA","Zip Code Area",1,1,"Urban",22.5
+"456",92027,5,"San Diego County",NA,153,"CA","Zip Code Area",1,1,"Urban",21.4
+"457",92028,5,"San Diego County",NA,134.6,"CA","Zip Code Area",1,1,"Urban",21.1
+"458",92029,5,"San Diego County",NA,200.4,"CA","Zip Code Area",1,1,"Urban",21.9
+"459",92037,5,"San Diego County",NA,194.9,"CA","Zip Code Area",1,1,"Urban",20.4
+"460",92040,5,"San Diego County",NA,190.9,"CA","Zip Code Area",1,1,"Urban",21.6
+"461",92054,5,"San Diego County",NA,395.8,"CA","Zip Code Area",1,1,"Urban",24.6
+"462",92055,5,"San Diego County",NA,43.5,"CA","Zip Code Area",1,1.1,"Urban",19.8
+"463",92056,5,"San Diego County",NA,204.1,"CA","Zip Code Area",1,1,"Urban",22.8
+"464",92057,5,"San Diego County",NA,197.3,"CA","Zip Code Area",1,1,"Urban",21.6
+"465",92058,5,"San Diego County",NA,261,"CA","Zip Code Area",1,1,"Urban",22.6
+"466",92064,5,"San Diego County",NA,73.5,"CA","Zip Code Area",1,1,"Urban",20.8
+"467",92065,5,"San Diego County",NA,168.4,"CA","Zip Code Area",2,2,"Suburban",21.4
+"468",92067,5,"San Diego County",NA,91,"CA","Zip Code Area",1,1,"Urban",19.3
+"469",92069,5,"San Diego County",NA,146.8,"CA","Zip Code Area",1,1,"Urban",22
+"470",92071,5,"San Diego County",NA,191.9,"CA","Zip Code Area",1,1,"Urban",21.2
+"471",92075,5,"San Diego County",NA,130.6,"CA","Zip Code Area",1,1,"Urban",21.9
+"472",92078,5,"San Diego County",NA,90.3,"CA","Zip Code Area",1,1,"Urban",22.7
+"473",92081,5,"San Diego County",NA,134.1,"CA","Zip Code Area",1,1,"Urban",25.2
+"474",92082,5,"San Diego County",NA,137.6,"CA","Zip Code Area",2,2,"Suburban",20.6
+"475",92083,5,"San Diego County",NA,369.5,"CA","Zip Code Area",1,1,"Urban",22.4
+"476",92084,5,"San Diego County",NA,216.8,"CA","Zip Code Area",1,1,"Urban",22.3
+"477",92101,5,"San Diego County",NA,1287.2,"CA","Zip Code Area",1,1,"Urban",23.6
+"478",92102,5,"San Diego County",NA,940.6,"CA","Zip Code Area",1,1,"Urban",20.6
+"479",92103,5,"San Diego County",NA,3981.6,"CA","Zip Code Area",1,1,"Urban",23.2
+"480",92104,5,"San Diego County",NA,2617.8,"CA","Zip Code Area",1,1,"Urban",23
+"481",92105,5,"San Diego County",NA,830.1,"CA","Zip Code Area",1,1,"Urban",18.7
+"482",92106,5,"San Diego County",NA,277.3,"CA","Zip Code Area",1,1,"Urban",22.5
+"483",92107,5,"San Diego County",NA,338.7,"CA","Zip Code Area",1,1,"Urban",24.6
+"484",92108,5,"San Diego County",NA,608.8,"CA","Zip Code Area",1,1,"Urban",23.3
+"485",92109,5,"San Diego County",NA,221.7,"CA","Zip Code Area",1,1,"Urban",25.6
+"486",92110,5,"San Diego County",NA,564.7,"CA","Zip Code Area",1,1,"Urban",22.5
+"487",92111,5,"San Diego County",NA,335.3,"CA","Zip Code Area",1,1,"Urban",21.9
+"488",92113,5,"San Diego County",NA,562.8,"CA","Zip Code Area",1,1,"Urban",20.1
+"489",92114,5,"San Diego County",NA,528.6,"CA","Zip Code Area",1,1,"Urban",18.5
+"490",92115,5,"San Diego County",NA,878,"CA","Zip Code Area",1,1,"Urban",20.7
+"491",92116,5,"San Diego County",NA,1968,"CA","Zip Code Area",1,1,"Urban",23
+"492",92117,5,"San Diego County",NA,267.3,"CA","Zip Code Area",1,1,"Urban",23
+"493",92118,5,"San Diego County",NA,200.7,"CA","Zip Code Area",1,1,"Urban",22.5
+"494",92119,5,"San Diego County",NA,252.7,"CA","Zip Code Area",1,1,"Urban",20.3
+"495",92120,5,"San Diego County",NA,455.1,"CA","Zip Code Area",1,1,"Urban",20.3
+"496",92121,5,"San Diego County",NA,146,"CA","Zip Code Area",1,1,"Urban",19.2
+"497",92122,5,"San Diego County",NA,127.8,"CA","Zip Code Area",1,1,"Urban",20.3
+"498",92123,5,"San Diego County",NA,361.7,"CA","Zip Code Area",1,1,"Urban",23.8
+"499",92124,5,"San Diego County",NA,198.7,"CA","Zip Code Area",1,1,"Urban",22.1
+"500",92126,5,"San Diego County",NA,156.5,"CA","Zip Code Area",1,1,"Urban",18.9
+"501",92127,5,"San Diego County",NA,62.5,"CA","Zip Code Area",1,1,"Urban",18.5
+"502",92128,5,"San Diego County",NA,75,"CA","Zip Code Area",1,1,"Urban",20.2
+"503",92129,5,"San Diego County",NA,70.4,"CA","Zip Code Area",1,1,"Urban",19.8
+"504",92130,5,"San Diego County",NA,53.8,"CA","Zip Code Area",1,1,"Urban",18.7
+"505",92131,5,"San Diego County",NA,66.8,"CA","Zip Code Area",1,1,"Urban",18.3
+"506",92139,5,"San Diego County",NA,295.9,"CA","Zip Code Area",1,1,"Urban",18.4
+"507",92154,5,"San Diego County",NA,434.8,"CA","Zip Code Area",1,1,"Urban",19.4
+"508",92173,5,"San Diego County",NA,1348.2,"CA","Zip Code Area",1,1,"Urban",20.6
